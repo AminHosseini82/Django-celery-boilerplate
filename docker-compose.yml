@@ -27,7 +27,7 @@ services:
     build:
       context: ./Project
       dockerfile: Dockerfile
-    command: celery --app=config worker -l INFO
+    command: celery --app=Amin_celery_test worker -l INFO
     volumes:
       - ./Project:/app/
     environment:
