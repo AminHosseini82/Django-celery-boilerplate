@@ -25,7 +25,7 @@ To run this project, you only need Docker and Docker Compose installed on your s
 
 1.  First, clone the repository:
     ```bash
-    git clone https://github.com/AminHosseini82/django-celery-boilerplate.git
+    git clone https://github.com/AminHosseini82/Django-celery-boilerplate.git
     cd my_celery_test
     ```
 
